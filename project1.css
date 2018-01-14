@@ -1,0 +1,35 @@
+/* project1 */
+
+.pic {
+	background-color: lightyellow;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.pl{
+	font-weight: bold;
+	font-size: 35px;
+	color: black;
+	text-align: center;
+}
+.p2{
+	font-weight: bold;
+	font-size: 35px;
+	color: black;
+	text-align: center;
+}
+.content_left{
+	float:left;
+	width: 50%;
+}
+.content_right{
+	float:right;
+	width: 50%;
+}
+
+
